@@ -7,7 +7,7 @@ public class prb_5 {
 		int a=23;
 		int b=45;
 		
-		if(23==45)
+		if(a==b)
 			System.out.println("The numbers are equal");
 		else
 			System.out.println("The numbers are not equal");
